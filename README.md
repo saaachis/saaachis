@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello 👋, I'm saachi shinde ! </h1>
-<h3 align="center">A passionate AI & ML enthusiast from Mumbai.</h3>
+<h1 align="center"> hello 👋, i am saachi shinde !! 🌸 </h1>
+<h3 align="center"> a passionate AI & ML enthusiast from mumbai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaachis&label=Profile%20views&color=0e75b6&style=flat" alt="saaachis" /> </p>
 
