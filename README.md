@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **saachi.shinde28@gmail.com**
 
-- 📄 My professional resume: https://rxresu.me/saachi.shinde28/resume
+- 📄 My professional resume: https://rxresu.me/saachi.shinde28/resume-new
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
